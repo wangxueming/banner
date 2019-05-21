@@ -32,6 +32,6 @@ proguard/
 captures/
 .idea
 /gradle
-/banner.iml
+*.iml
 /gradlew
 /gradlew.bat
